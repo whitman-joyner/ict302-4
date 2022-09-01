@@ -5,4 +5,4 @@ draft: true
 ---
 This is a test
 
-[Main Page](http://localhost:1313/)
+[Main Page](https://resilient-figolla-cffcdc.netlify.app/)
