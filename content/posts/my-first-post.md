@@ -7,6 +7,6 @@ This is a test
 
 ~~this is redacted~~
 
-This is a ==Highlight==
+This is a <mark>Highlight</mark>
 
 [Main Page](https://resilient-figolla-cffcdc.netlify.app/)
