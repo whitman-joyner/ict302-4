@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Sep 2022 19:37:09 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Report Kusmira</title>
+      <link>http://example.org/posts/personal-report-kusmira/</link>
+      <pubDate>Fri, 02 Sep 2022 19:37:09 -0400</pubDate>
+      
+      <guid>http://example.org/posts/personal-report-kusmira/</guid>
+      <description>title: &amp;ldquo;Personal Report for Module 2&amp;rdquo; date: 2022-09-02T15:48:28-04:00 draft: false Barker defined content management as two main characters editorial process and intended for human consumption. Editorial process includes the content that needs to be edited whereas human intended content includes actual post, graphics used to create a website not the behind the scene of the programming language. Likewise the podcast of Anil Dash also clarified that not all people that write on the internet can be called as content creators.</description>
+    </item>
+    
+    <item>
+      <title>Group Report 9-2-2022</title>
+      <link>http://example.org/posts/weekly-report/group-report-week-2/</link>
+      <pubDate>Fri, 02 Sep 2022 15:48:01 -0400</pubDate>
+      
+      <guid>http://example.org/posts/weekly-report/group-report-week-2/</guid>
+      <description>Whitman worked with Gin, Mathea, and Kusmire to make sure that each one was connecting and able to post. He also walked each one through the step for future references. He also confirmed we had at least posted our Tinkering assignement. Moving forward, we will continue to use our Teams folder that Ginetta set up so we can share files and communicate when not in class.</description>
+    </item>
+    
+    <item>
+      <title>Mathea First Post</title>
+      <link>http://example.org/posts/mathea-first-post/</link>
+      <pubDate>Fri, 02 Sep 2022 15:33:38 -0400</pubDate>
+      
+      <guid>http://example.org/posts/mathea-first-post/</guid>
+      <description>Tinkering Activity So this week we worked with hugo and learned about making posts through hugo and syncing it using github. Looking though how to set all this up, it eems like something htat will get easier over time as it is just a process to remeber, like opening the website, then making sure its synced and then gettign into the meat of it seem straight forward.</description>
+    </item>
+    
+    <item>
+      <title>Ginneta&#39;s First Post</title>
+      <link>http://example.org/posts/ginnetas-first-post/</link>
+      <pubDate>Fri, 02 Sep 2022 15:18:36 -0400</pubDate>
+      
+      <guid>http://example.org/posts/ginnetas-first-post/</guid>
+      <description>Learning Hugo is a bit of a task. Once you get the basics down, things roll a lot faster. My suggestion is that if you have not done a lot of programming before, it is advised to take notes to remember specific steps. After you do these steps a few times, you will no longer needs the notes.</description>
+    </item>
+    
+    <item>
+      <title>Tinkering With Hugo Activity</title>
+      <link>http://example.org/posts/tinkering-with-hugo-activity/</link>
+      <pubDate>Thu, 01 Sep 2022 14:59:11 -0400</pubDate>
+      
+      <guid>http://example.org/posts/tinkering-with-hugo-activity/</guid>
+      <description>We had several issues while creating a post in Hugo, because the Github was not fetching the files. This week we discussed the definition of content and heard the view of Anil Dash for content creators. We also studied about content models and attributes.</description>
+    </item>
+    
+    <item>
+      <title>Whitman&#39;s Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 31 Aug 2022 15:08:14 -0400</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>The basics of posting seem very simple i create a post in terminal than i push the post onto the github server before changing the post status to true. Than i would add the text into the body before commiting the changes on github itself. While this would count as content as i am editing this and its for a human audience id struggle to call it good content.</description>
+    </item>
+    
+  </channel>
+</rss>
