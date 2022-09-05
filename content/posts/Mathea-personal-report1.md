@@ -1,6 +1,6 @@
 ---
 title: "Mathea Personal Report1"
 date: 2022-09-04T23:05:55-04:00
-draft: true
+draft: false
 ---
-
+This week I feel like I am able to find resources to help in self guided learning. This week i have been trying to use hugo and github to make posts on our personal websites and have been running into several issues either through my own peronal errors or issues with the site itself. There was been several ways I personally have gone about olving these issues. One such was was reaching out to my teammate and asking if they had run into the same issue as me r they had any suggestions. Another way I tried to learn was by looking up information online and on hugo's supplemental help site to fin dinformation adn walkthroughs about how to set things up when I would forget a step or begin to struggle. On hugos site itelf I would also type something to test it based on a guide or reference, then preview it to see if it was working. In the future I may also look up some youtube videos to give additional help. I think these are all fair examples of using reources at my disposal to help in self guided learning. By asking teammates I was able to create posts and get connected to the site. By looking at help pages I saw som eextra thing I could do within posts like markup text. 
