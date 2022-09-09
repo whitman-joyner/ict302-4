@@ -9,3 +9,5 @@ I can identify and employ technologies related to content management: We are usi
 I can find and use resources for self-directed learning: Currently we have websites that can teach us how to use Hugo.
 
 I can manage content using established workflows: So curently the way we create posts is to have the terminal create a file, push that file onto github, edit the file on github and then let netlify publish it. 
+
+
