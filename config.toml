@@ -3,5 +3,5 @@ languageCode = 'en-us'
 title = 'Group 4'
 theme = "ananke"
 
-[markup.geldmark.renderer]
+[markup.goldmark.renderer]
 |  unsafe = true
