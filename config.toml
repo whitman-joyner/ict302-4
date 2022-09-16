@@ -1,4 +1,7 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us''html'
+languageCode = 'en-us'
 title = 'Group 4'
 theme = "ananke"
+
+[markup.geldmark.renderer]
+|  unsafe = true
