@@ -15,12 +15,17 @@ draft: false
 	<font size="25" color='maroon'> This page is to test html code in hugo <br>
 	With multiple lines <br>
 </font>
+</center>
+<font size="8" color='magenta'> Please enter your information <br>
+<label for="fname">First name:</label>
+<input type="text" id="fname" name="fname"><br>
+<center>
 <label for="Packages">Choose a Package:</label>
 
 <select name="Packages" id="pack">
   <option value="1">Basic</option>
   <option value="2">Advanced</option>
-  <option value="3">expert</option>
+  <option value="3">Expert</option>
   <option value="4">Master</option>
 </select>
 </center>
