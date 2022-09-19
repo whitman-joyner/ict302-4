@@ -15,13 +15,13 @@ draft: false
 	<font size="25" color='maroon'> This page is to test html code in hugo <br>
 	With multiple lines <br>
 </font>
-<label for="cars">Choose a car:</label>
+<label for="Packages">Choose a Package:</label>
 
-<select name="cars" id="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="mercedes">Mercedes</option>
-  <option value="audi">Audi</option>
+<select name="Packages" id="pack">
+  <option value="1">Basic</option>
+  <option value="2">Advanced</option>
+  <option value="3">expert</option>
+  <option value="4">Master</option>
 </select>
 </center>
 </body>
