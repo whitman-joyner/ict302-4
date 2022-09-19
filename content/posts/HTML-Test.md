@@ -10,10 +10,11 @@ draft: false
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title> HTML Test</title>
 </head>
+<center>
 <body>
-	<font size="25" color='yellow'> This page is to test html code in hugo <br>
+	<font size="25" color='maroon'> This page is to test html code in hugo <br>
 	With multiple lines <br>
 </font>
-
+</center>
 </body>
 </html>
