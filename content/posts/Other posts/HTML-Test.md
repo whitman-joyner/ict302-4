@@ -12,7 +12,7 @@ draft: false
 </head>
 <center>
 <body>
-	<font size="25" color='maroon'> This page is to test html code in hugo <br>
+	<font size="8" color='maroon'> This page is to test html code in hugo <br>
 	With multiple lines <br>
 </font>
 </center>
