@@ -1,6 +1,7 @@
 ---
 title: "MatheaPersonalReportModule4"
 date: 2022-09-19T01:35:47-04:00
-draft: true
+draft: false
 ---
 
+This week I think I can identify concepts in web content management, this week we talked about content management and applied it to what we will be doing in groups this semeter, but we already talked about how that applies to the group work in the group post for this week. In web content management it seems that how the content is put out for people is just as important as the content itself. These systems basically provide an order/rhythm to keepin gup with posting content and making sure that it is up to standard by having multiple poeple reveiw the content and tweak it until it is good enough to be published. Like in the example of the star wars film where it was written, then edited, then revised, reordered, reviewed, then submitted as the movie that many enjoy today. It also seems like these systems arent just a set of roles each person has, but also an organization method, and its even something marketable. There are examples like using a spread sheet or email to keep everyon eon task, adn having most of the people in a company doing all the work, or there are examples like websites that have premade templates settings that allow the user themself to go through the steps of creating content. This concept ties closely with workflows in a way that a good workflow is needed ot have a good content management system.
