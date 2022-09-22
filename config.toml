@@ -2,3 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Group 4'
 theme = "ananke"
+
+[markup.goldmark.renderer]
+  unsafe = true
