@@ -1,5 +1,5 @@
 ---
-title: "2022"
+title: "Whitman's Tinker Activity"
 date: 2022-09-22T15:58:27-04:00
 draft: false
 ---
