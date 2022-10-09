@@ -1,7 +1,7 @@
 ---
 title: "Ginettas PR for Mod7"
 date: 2022-10-09T11:49:37-04:00
-draft: true
+draft: false
 ---
 
 I can identify and employ technologies related to content management
