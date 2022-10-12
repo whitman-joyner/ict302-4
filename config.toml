@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Group 4'
-theme = "ananke"
+theme = "beautifulhugo-master"
 
 [markup.goldmark.renderer]
   unsafe = true
