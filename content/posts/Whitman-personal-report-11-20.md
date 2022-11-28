@@ -1,0 +1,7 @@
+---
+title: "Whitman Personal report 11 20"
+date: 2022-11-20T18:59:59-04:00
+draft: false
+---
+
+I can identify and define key concepts in (web) content management: so this week the question was all about features for a cms and which cms you should use. Choosing a cms is largely based on what you know and what you want to do. Obviously if you dont know a cms exists than you wouldn't use it but more importantly your knowledge base can vastly determine what you can and cant do. If you know programming a cms like hugo could be better because you have the skills to get what you want done. On the other hand if you have little programming skill something like wordpress may be better. Than its a question of what features to use for your site and which kind of site best suits them. Wordpress has a lot of functions that come in the form of plug ins. These plug ins will technically do what you want them to do but they are very constrained by wordpress and its own design. On top of that you may need to pay for some plug ins. Hugo on the other hand allows you to upload code directly to your directory. If whatever you find doesn't do exactly what you want you can change it, and more than likely it will be free, but as with everything with hugo you can accidentaly break your cms. 
