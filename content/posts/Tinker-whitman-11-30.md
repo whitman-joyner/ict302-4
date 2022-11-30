@@ -1,5 +1,5 @@
 ---
-title: "Tinker with hugo features Whitman 11 16"
+title: "Comparing CMS's"
 date: 2022-11-30T15:37:50-04:00
 draft: false
 ---
