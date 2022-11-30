@@ -1,6 +1,6 @@
 ---
 title: "Whitmans Personall Contract"
-date: 2022-09-25T18:19:03-04:00
+date: 2022-11-27T18:19:03-04:00
 draft: false
 ---
 
