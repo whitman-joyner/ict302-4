@@ -1,0 +1,8 @@
+---
+title: "Tinkering With Other CMS"
+date: 2022-11-30T21:24:19-05:00
+draft: false
+---
+The Umbraco CMS is an open source software. It is used to create websites and data driven apps that can be accessed from any device. Umbraco is built over Microsoft's. NET framework which means it can build any application so many so big companies like Sony, Avon uses this platform. Umbraco is similar to WordPress and it is more flexible, scalable and secure. The general audience of this platform are anyone that are interested to build websites and apps. The best part about this platform is it can work with wide variety of software's. The code for the CMS is available in GitHub so developers can easily collaborate with other members. Since the platform offers similar service as WordPress it can be useful for our website, and several plus-ins are also available. So this platform will be definitely be a good alternative for WordPress.
+
+Another interesting CMS is Contentful-Headless CMS. It is a platform that allows users to create, manage and distribute content to any other platform through asset management. It is easy to use and users can manage the menu display and its different sub-categories. The platform offers business to group all of their content into one single space, making it easier to access by all team members. A free version is available for a Contentful community, whereas paid version is available for Contentful team members. This CMS is different than WordPress and Hugo. It is mostly useful for high growth companies that want to publish content on more than one channel. It is a complex platform and it works best for teams that want to implement, and update website so it might not be useful for me. 
